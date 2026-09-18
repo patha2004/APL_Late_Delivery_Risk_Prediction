@@ -1,4 +1,7 @@
-# APL Late Delivery Risk Prediction
+# 🚚 APL Late Delivery Risk Prediction
+
+[![Live App](https://img.shields.io/badge/Live%20App-Streamlit-red)](https://patha2004-apl-late-delivery-risk-prediction-appapp-rfrx4y.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/patha2004/APL_Late_Delivery_Risk_Prediction)
 
 ## 📌 Project Overview
 
@@ -6,15 +9,11 @@ APL Late Delivery Risk Prediction is an end-to-end Machine Learning project that
 
 The project uses historical logistics and supply-chain data to identify patterns associated with delivery delays. A Random Forest Classification model is trained and integrated into a Streamlit web application for real-time prediction.
 
----
-
 ## 🎯 Problem Statement
 
 Late deliveries can negatively affect customer satisfaction, operational efficiency, and supply-chain performance.
 
 The objective of this project is to build a machine learning system that can predict the risk of late delivery using information available before the delivery outcome.
-
-The prediction can help logistics teams identify potentially risky shipments and take preventive actions.
 
 ---
 
@@ -302,4 +301,3 @@ Press:
 That's it for now. ✅
 
 After saving, **send me a screenshot of the README**. Then we'll move to the next important part: **final project cleanup + screenshots for your submission**. 🚀
-
